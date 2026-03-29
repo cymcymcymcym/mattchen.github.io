@@ -1,0 +1,17 @@
+title: Matt Chen
+description: Math, Robotics, AI
+url: https://cymcymcymcym.github.io
+author: Matt Chen
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /blog/:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
